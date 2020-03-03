@@ -7,6 +7,7 @@ By building and evaluating several machine-learning models to predict credit ris
     1. Resampling/Undersamplin
     2. Ensemble Learning
     
+---
 
 ## Resampling/Undersampling
 
@@ -24,9 +25,13 @@ Here is the process done within the code:
 
 ![NRO](Images/1_Naive_Random_Oversampling.png)
 
+---
+
 ### SMOTE Oversampling
 
 ![SMOTE](Images/2_SMOTE_Oversampling.png)
+
+---
 
 ## Undersampling
 
@@ -34,12 +39,15 @@ Here is the process done within the code:
 
 ![CC](Images/3_ClusterCentroids_Undersampling.png)
 
+---
+
 ## Combination (Over and Under) Sampling
 
 ### SMOTEENN
 
 ![CC](Images/4_Oversampling_Undersampling.png)
 
+---
 
 ## Ensemble Learning
 
@@ -55,6 +63,10 @@ Here is the process done within the code:
 
 ![BRF](Images/5_Balanced_Random_Forest.png)
 
+---
+
 ### Easy Ensemble AdaBoost Classifier
 
 ![EEC](Images/6_Easy_Ensembled_Classifier.png)
+
+---
