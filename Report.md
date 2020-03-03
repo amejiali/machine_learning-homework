@@ -49,6 +49,16 @@ Here is the process done within the code:
 
 ---
 
+## Conclusions
+
+> Which model had the best balanced accuracy score?
+>
+> Which model had the best recall score?
+>
+> Which model had the best geometric mean score?
+
+---
+
 ## Ensemble Learning
 
 [Ensemble Starter Notebook](Starter_Code/credit_risk_ensemble.ipynb)
@@ -68,5 +78,17 @@ Here is the process done within the code:
 ### Easy Ensemble AdaBoost Classifier
 
 ![EEC](Images/6_Easy_Ensembled_Classifier.png)
+
+---
+
+## Conclusions
+
+> Which model had the best balanced accuracy score?
+>
+> Which model had the best recall score?
+>
+> Which model had the best geometric mean score?
+>
+> What are the top three features?
 
 ---
