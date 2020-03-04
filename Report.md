@@ -52,13 +52,15 @@ Here is the process done within the code:
 ## Conclusions
 
 > Which model had the best balanced accuracy score?
-> ** Naive Random OverSampling: 0.795089
+>
+** Naive Random OverSampling: 0.795089
 >
 > Which model had the best recall score?
-> ** SMOTE: 0.92
+** SMOTE: 0.92
 >
 > Which model had the best geometric mean score?
-> ** Naive Random OverSampling: 0.79
+>
+** Naive Random OverSampling: 0.79
 
 ---
 
