@@ -56,6 +56,7 @@ Here is the process done within the code:
 ** Naive Random OverSampling: 0.795089
 >
 > Which model had the best recall score?
+>
 ** SMOTE: 0.92
 >
 > Which model had the best geometric mean score?
@@ -90,10 +91,20 @@ Here is the process done within the code:
 
 > Which model had the best balanced accuracy score?
 >
+** Easy Ensemble AdaBoost Classifier: 0.9329 
+>
 > Which model had the best recall score?
+>
+** Easy Ensemble AdaBoost Classifier: 0.94
 >
 > Which model had the best geometric mean score?
 >
+** Easy Ensemble AdaBoost Classifier: 0.93
+>
 > What are the top three features?
-
+>
+** (0.07456611748931584, 'last_pymnt_amnt')
+** (0.06867277306233562, 'total_rec_prncp')
+** (0.0672729737801688, 'total_pymnt_inv')
+>
 ---
